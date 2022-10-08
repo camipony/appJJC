@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/camipony.io/static/css/main.f9c594eb.css",
-    "main.js": "/camipony.io/static/js/main.c5001c92.js",
-    "static/js/787.5d5181f2.chunk.js": "/camipony.io/static/js/787.5d5181f2.chunk.js",
-    "static/media/logo.svg": "/camipony.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/camipony.io/index.html",
-    "main.f9c594eb.css.map": "/camipony.io/static/css/main.f9c594eb.css.map",
-    "main.c5001c92.js.map": "/camipony.io/static/js/main.c5001c92.js.map",
-    "787.5d5181f2.chunk.js.map": "/camipony.io/static/js/787.5d5181f2.chunk.js.map"
+    "main.css": "camipony.io/static/css/main.f9c594eb.css",
+    "main.js": "camipony.io/static/js/main.c5001c92.js",
+    "static/js/787.5d5181f2.chunk.js": "camipony.io/static/js/787.5d5181f2.chunk.js",
+    "static/media/logo.svg": "camipony.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "camipony.io/index.html",
+    "main.f9c594eb.css.map": "camipony.io/static/css/main.f9c594eb.css.map",
+    "main.c5001c92.js.map": "camipony.io/static/js/main.c5001c92.js.map",
+    "787.5d5181f2.chunk.js.map": "camipony.io/static/js/787.5d5181f2.chunk.js.map"
   },
   "entrypoints": [
-    "/camipony.io/static/css/main.f9c594eb.css",
-    "/camipony.io/static/js/main.c5001c92.js"
+    "camipony.io/static/css/main.f9c594eb.css",
+    "camipony.io/static/js/main.c5001c92.js"
   ]
 }
